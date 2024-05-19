@@ -48,3 +48,5 @@ Published 1st-app (6.30 sec)
 Current Deployment ID: d41a85ca-85e8-4230-8970-34a33bc569ed
 Current Version ID: d41a85ca-85e8-4230-8970-34a33bc569ed
 ```
+
+https://developers.cloudflare.com/workers/examples/
